@@ -1,0 +1,10 @@
+---
+title: "HelloWorld"
+author: "You"
+date: "25/01/2021"
+output: pdf_document
+---
+
+## This is my 1st R MarkDown file.
+
+`I am enjoying a lot to learn Data Science with R.
